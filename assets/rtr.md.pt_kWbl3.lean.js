@@ -1,1 +1,0 @@
-import{_ as e,c as i,o as a,a3 as o}from"./chunks/framework.pgMqRpUO.js";const f=JSON.parse('{"title":"Frosty RTR","description":"","frontmatter":{},"headers":[],"relativePath":"rtr.md","filePath":"rtr.md"}'),t={name:"rtr.md"},r=o("",87),l=[r];function n(s,c,d,p,u,m){return a(),i("div",null,l)}const E=e(t,[["render",n]]);export{f as __pageData,E as default};
